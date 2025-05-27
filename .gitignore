@@ -2,3 +2,4 @@
 .local/share/qtile
 .local/share/xorg
 .local/share/recently-used.xbel
+.config/qtile/__pycache__/
