@@ -214,9 +214,11 @@ auto_minimize = True
 # When using the Wayland backend, this can be used to configure input devices.
 wl_input_rules = None
 
-# xcursor theme (string or None) and size (integer) for Wayland backend
-wl_xcursor_theme = None
-wl_xcursor_size = 24
+# xcursor theme (string or None) and size (integer) for Wayland and X11 backend
+wl_xcursor_theme = "WhiteSur-cursors"
+x11_xcursor_theme = "WhiteSur-cursors"
+wl_xcursor_size = 16
+x11_xcursor_size = 16
 # Xwayland
 wl_xwayland = True
 
