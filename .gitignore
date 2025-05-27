@@ -1,3 +1,4 @@
 .local/state/wireplumber
 .local/share/qtile
 .local/share/xorg
+.local/share/recently-used.xbel
